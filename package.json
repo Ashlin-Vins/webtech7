@@ -2,6 +2,7 @@
   "name": "emi-calculator",
   "version": "1.0.0",
   "description": "EMI Calculator React Application",
+  "homepage": "https://ashlin-vins.github.io/webtech7",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
